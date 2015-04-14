@@ -74,7 +74,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Turczuk Beata
 1. Warzocha Jędrzej
 1. Willma Adam
-1. Wyszyński Przemysław
+1. Wyszyński Przemysław [206275](musicstorepw.herokuapp.com).[MusicStore](https://github.com/pwyszynski/RailsMusicStore).
 1. Zbierowski Maciej
 1. Zieliński Kamil
 1. Żabierek Adrian
